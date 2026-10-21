@@ -9,16 +9,16 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/medinstech/cycloidgen"><img src="assets/cycloidgen.svg" alt="cycloidgen: a 21:1 cycloidal drive turning, its disc meshing with 22 ring pins" width="100%"></a>
+      <a href="https://github.com/medinstech/cycloidgen"><img src="https://raw.githubusercontent.com/medinstech/cycloidgen/main/docs/banner.svg" alt="cycloidgen: a 15:1 cycloidal drive turning, the disc orbiting on its eccentric and rolling round the ring pins" width="100%"></a>
       <br>
       <b><a href="https://github.com/medinstech/cycloidgen">cycloidgen</a></b><br>
       Parametric cycloidal drive generator: exact geometry, live 2D and 3D, design checks, and DXF, STEP, STL and PDF output. Desktop app, CLI and Python library.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/medinstech/perfboard-studio"><img src="assets/perfboard-studio.svg" alt="Perfboard Studio: the LM317 supply example being routed, then passing DRC and LVS" width="100%"></a>
+      <a href="https://github.com/medinstech/perfboard-studio"><img src="https://raw.githubusercontent.com/medinstech/perfboard-studio/main/docs/images/banner.svg" alt="Perfboard Studio: an NE555 astable built in the order its guide gives, until its LED blinks" width="100%"></a>
       <br>
       <b><a href="https://github.com/medinstech/perfboard-studio">Perfboard Studio</a></b><br>
-      Desktop EDA for perfboard and stripboard: a schematic netlist goes in, and a placed, autorouted board comes out, checked by DRC and LVS, with a step-by-step soldering guide.
+      Desktop EDA for perfboard, stripboard and solderless breadboard: a schematic goes in, and a placed, autorouted board comes out, checked by DRC and LVS, with a step-by-step build guide.
     </td>
   </tr>
   <tr>
