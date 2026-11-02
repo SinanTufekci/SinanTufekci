@@ -9,7 +9,7 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/SinanTufekci/tabmancer"><img src="https://raw.githubusercontent.com/SinanTufekci/tabmancer/main/docs/banner.webp" alt="tabmancer: coding agents at work in their tabs, Windows restarts and they are gone, Bit calls them back, and the dashboard shows them all" width="100%"></a>
+      <a href="https://github.com/SinanTufekci/tabmancer"><img src="https://raw.githubusercontent.com/SinanTufekci/tabmancer/main/docs/banner.svg" alt="tabmancer: Bit, its robot, beside a small dashboard of coding-agent sessions and a chart of the tokens they used over 14 days" width="100%"></a>
       <br>
       <b><a href="https://github.com/SinanTufekci/tabmancer">tabmancer</a></b><br>
       A terminal dashboard for coding-agent sessions (Claude Code, Codex, Antigravity): what each one is doing and which waits for you, teams of sessions that talk to each other, a way on past usage limits, and every session called back after a reboot. Try it with <code>uvx tabmancer --demo</code>.
