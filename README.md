@@ -8,6 +8,14 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/SinanTufekci/tabmancer"><img src="https://raw.githubusercontent.com/SinanTufekci/tabmancer/main/docs/banner.webp" alt="tabmancer: coding agents at work in their tabs, Windows restarts and they are gone, Bit calls them back, and the dashboard shows them all" width="100%"></a>
+      <br>
+      <b><a href="https://github.com/SinanTufekci/tabmancer">tabmancer</a></b><br>
+      A terminal dashboard for coding-agent sessions (Claude Code, Codex, Antigravity): what each one is doing and which waits for you, teams of sessions that talk to each other, a way on past usage limits, and every session called back after a reboot. Try it with <code>uvx tabmancer --demo</code>.
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/medinstech/cycloidgen"><img src="https://raw.githubusercontent.com/medinstech/cycloidgen/main/docs/banner.svg" alt="cycloidgen: a 15:1 cycloidal drive turning, the disc orbiting on its eccentric and rolling round the ring pins" width="100%"></a>
       <br>
@@ -41,4 +49,4 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
 
 - **Firmware & hardware:** STM32 / C++ firmware · CAN bus · motor control · KiCad PCB design
 - **Manufacturing:** CNC / G-code post-processors (Fanuc, Sinumerik)
-- **Software:** Python desktop apps (PySide6 + VTK, Nuitka) · MCP servers · MuJoCo · Godot 4
+- **Software:** Python desktop apps (PySide6 + VTK, Nuitka) · terminal apps (Textual) · MCP servers · MuJoCo · Godot 4
