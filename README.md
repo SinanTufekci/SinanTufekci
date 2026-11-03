@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Sinan Tüfekci: mechatronics engineer, robots end to end, from firmware and PCBs to control and the tools around them. Beside the name, Bit, tabmancer's robot, waves." width="100%"></p>
+<p align="center"><img src="assets/header.svg" alt="Sinan Tüfekci: mechatronics engineer, robots end to end, from firmware and PCBs to control and the tools around them. Beside the name, a microcontroller sends pulses along copper traces to a driver and a two-link robot arm, whose pen draws the profile of a cycloidal disc." width="100%"></p>
 
 Mechatronics engineer building robots end-to-end: STM32 firmware, PCBs, control and the desktop tools around them.
 
