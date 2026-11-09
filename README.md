@@ -43,7 +43,7 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
       <a href="https://github.com/medinstech/linkit-studio-releases/releases/latest"><img src="https://img.shields.io/github/v/release/medinstech/linkit-studio-releases?style=flat-square&label=release" alt="latest release of medinstech/linkit-studio-releases"></a> <a href="https://github.com/medinstech/linkit-studio-releases/commits"><img src="https://img.shields.io/github/last-commit/medinstech/linkit-studio-releases?style=flat-square&label=last%20commit" alt="last commit to medinstech/linkit-studio-releases"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/SinanTufekci/agent-intern"><img src="https://raw.githubusercontent.com/SinanTufekci/agent-intern/main/assets/bridge-animation.svg" alt="agent-intern: Claude Code hands tasks to other coding CLIs" width="100%"></a>
+      <a href="https://github.com/SinanTufekci/agent-intern"><img src="https://raw.githubusercontent.com/SinanTufekci/agent-intern/main/assets/card.svg" alt="agent-intern: Clawd sends tasks down five lines to Antigravity, Codex, opencode, Copilot and Cursor" width="100%"></a>
       <br>
       <b><a href="https://github.com/SinanTufekci/agent-intern">agent-intern</a></b><br>
       One MCP server that lets Claude Code drive other coding CLIs as sub-agents: Gemini (Antigravity), Codex, Copilot, Cursor and opencode, plus experimental Grok, Kimi and Muse.<br>
