@@ -11,7 +11,7 @@ MSc @ İKÇÜ · [medinstech.com](https://medinstech.com) · [LinkedIn](https://
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://medinstech.com/kirmen/"><img src="assets/kirmen-studio.svg" alt="Kirmen Studio: a Type-IV pressure vessel rotating between headstock and tailstock chucks while a 4-axis carriage moves along its rail, pivoting the payout eye at each dome turnaround and laying a helical carbon-fiber band" width="100%"></a>
+      <a href="https://medinstech.com/kirmen/"><img src="assets/kirmen-studio.jpg" alt="Kirmen Studio: composite filament winding G-code generation and 3D simulation of a pressure vessel with polar, helical and hoop layers" width="100%"></a>
       <br>
       <b><a href="https://medinstech.com/kirmen/">Kirmen Studio</a></b><br>
       Composite filament winding CAM and 3D simulation for Windows: hoop, helical and polar winding, coverage, angle, thickness, slip and head-reach verification, with Fanuc, Siemens, Mitsubishi, Heidenhain and ISO output.<br>
