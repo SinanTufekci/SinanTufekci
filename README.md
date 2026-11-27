@@ -2,20 +2,27 @@
 
 Mechatronics engineer building robots end-to-end: STM32 firmware, PCBs, control and the desktop tools around them.
 
-Currently at [medinstech](https://github.com/medinstech), working on medical rehabilitation and industrial robotics.
+Currently at [medinstech](https://medinstech.com) ([@medinstech](https://github.com/medinstech)), working on composite filament winding CAM & machines, medical rehabilitation and industrial robotics.
 
-MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID](https://orcid.org/0009-0009-8654-1628) · [Google Scholar](https://scholar.google.com/citations?user=j362ZEwAAAAJ)
+MSc @ İKÇÜ · [medinstech.com](https://medinstech.com) · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID](https://orcid.org/0009-0009-8654-1628) · [Google Scholar](https://scholar.google.com/citations?user=j362ZEwAAAAJ)
 
-## Projects
+## Robotics, hardware & CAM
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/SinanTufekci/tabmancer"><img src="https://raw.githubusercontent.com/SinanTufekci/tabmancer/main/docs/banner.svg" alt="tabmancer: Bit, its robot, beside a small dashboard of coding-agent sessions and a chart of the tokens they used over 14 days" width="100%"></a>
+    <td width="50%" valign="top">
+      <a href="https://medinstech.com/kirmen/"><img src="assets/kirmen-studio.svg" alt="Kirmen Studio: a Type-IV pressure vessel rotating between headstock and tailstock chucks while a 4-axis carriage moves along its rail, pivoting the payout eye at each dome turnaround and laying a helical carbon-fiber band" width="100%"></a>
       <br>
-      <b><a href="https://github.com/SinanTufekci/tabmancer">tabmancer</a></b><br>
-      Many Claude Code sessions in many terminals, on one screen: what each one is doing and which one waits for you, and every session brought back where it left off, the ones closed before they were done too. Teams of sessions that talk to each other, a way on past usage limits, and Claude Code Wrapped, your week as a card to share, every Friday. Try it with <code>uvx tabmancer --demo</code>.<br>
-      <a href="https://pypi.org/project/tabmancer/"><img src="https://img.shields.io/pypi/v/tabmancer?style=flat-square&label=pypi" alt="tabmancer on PyPI"></a> <a href="https://github.com/SinanTufekci/tabmancer/commits"><img src="https://img.shields.io/github/last-commit/SinanTufekci/tabmancer?style=flat-square&label=last%20commit" alt="last commit to SinanTufekci/tabmancer"></a>
+      <b><a href="https://medinstech.com/kirmen/">Kirmen Studio</a></b><br>
+      Composite filament winding CAM and 3D simulation for Windows: hoop, helical and polar winding, coverage, angle, thickness, slip and head-reach verification, with Fanuc, Siemens, Mitsubishi, Heidenhain and ISO output.<br>
+      <a href="https://medinstech.com/kirmen/"><img src="https://img.shields.io/badge/web-medinstech.com%2Fkirmen-d97757?style=flat-square" alt="Kirmen Studio product page"></a> <img src="https://img.shields.io/badge/platform-Windows-0e639c?style=flat-square" alt="Windows desktop application">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/medinstech/linkit-studio-releases"><img src="assets/linkit-studio.svg" alt="LinKit Studio: a five-bar mechanism tracing a figure eight, driven by a slider per motor" width="100%"></a>
+      <br>
+      <b><a href="https://github.com/medinstech/linkit-studio-releases">LinKit Studio</a></b><br>
+      Build a mechanism from LinKit parts on screen, then drive the machine you built. Free for Windows, macOS and Linux.<br>
+      <a href="https://github.com/medinstech/linkit-studio-releases/releases/latest"><img src="https://img.shields.io/github/v/release/medinstech/linkit-studio-releases?style=flat-square&label=release" alt="latest release of medinstech/linkit-studio-releases"></a> <a href="https://github.com/medinstech/linkit-studio-releases/commits"><img src="https://img.shields.io/github/last-commit/medinstech/linkit-studio-releases?style=flat-square&label=last%20commit" alt="last commit to medinstech/linkit-studio-releases"></a>
     </td>
   </tr>
   <tr>
@@ -34,19 +41,27 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
       <a href="https://pypi.org/project/perfboard-studio/"><img src="https://img.shields.io/pypi/v/perfboard-studio?style=flat-square&label=pypi" alt="perfboard-studio on PyPI"></a> <a href="https://github.com/medinstech/perfboard-studio/commits"><img src="https://img.shields.io/github/last-commit/medinstech/perfboard-studio?style=flat-square&label=last%20commit" alt="last commit to medinstech/perfboard-studio"></a>
     </td>
   </tr>
+</table>
+
+## AI coding-agent tools
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/medinstech/linkit-studio-releases"><img src="assets/linkit-studio.svg" alt="LinKit Studio: a five-bar mechanism tracing a figure eight, driven by a slider per motor" width="100%"></a>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/SinanTufekci/tabmancer"><img src="https://raw.githubusercontent.com/SinanTufekci/tabmancer/main/docs/banner.svg" alt="tabmancer: Bit, its robot, beside a small dashboard of coding-agent sessions and a chart of the tokens they used over 14 days" width="100%"></a>
       <br>
-      <b><a href="https://github.com/medinstech/linkit-studio-releases">LinKit Studio</a></b><br>
-      Build a mechanism from LinKit parts on screen, then drive the machine you built. Free for Windows, macOS and Linux.<br>
-      <a href="https://github.com/medinstech/linkit-studio-releases/releases/latest"><img src="https://img.shields.io/github/v/release/medinstech/linkit-studio-releases?style=flat-square&label=release" alt="latest release of medinstech/linkit-studio-releases"></a> <a href="https://github.com/medinstech/linkit-studio-releases/commits"><img src="https://img.shields.io/github/last-commit/medinstech/linkit-studio-releases?style=flat-square&label=last%20commit" alt="last commit to medinstech/linkit-studio-releases"></a>
+      <b><a href="https://github.com/SinanTufekci/tabmancer">tabmancer</a></b><br>
+      Many Claude Code sessions in many terminals, on one screen: what each one is doing and which one waits for you, and every session brought back where it left off, the ones closed before they were done too. Teams of sessions that talk to each other, a way on past usage limits, and Claude Code Wrapped, your week as a card to share, every Friday. Try it with <code>uvx tabmancer --demo</code>.<br>
+      <a href="https://pypi.org/project/tabmancer/"><img src="https://img.shields.io/pypi/v/tabmancer?style=flat-square&label=pypi" alt="tabmancer on PyPI"></a> <a href="https://github.com/SinanTufekci/tabmancer/commits"><img src="https://img.shields.io/github/last-commit/SinanTufekci/tabmancer?style=flat-square&label=last%20commit" alt="last commit to SinanTufekci/tabmancer"></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="52%" valign="middle">
       <a href="https://github.com/SinanTufekci/agent-intern"><img src="https://raw.githubusercontent.com/SinanTufekci/agent-intern/main/assets/social-preview.svg" alt="agent-intern: your MCP host hands tasks to Antigravity, Codex, opencode, Copilot and Cursor, each line flowing while it works, until it reports done" width="100%"></a>
-      <br>
-      <b><a href="https://github.com/SinanTufekci/agent-intern">agent-intern</a></b><br>
-      One MCP server that lets Claude Code drive other coding CLIs as sub-agents: Gemini (Antigravity), Codex, Copilot, Cursor and opencode, plus experimental Grok, Kimi and Muse.<br>
+    </td>
+    <td width="48%" valign="middle">
+      <b><a href="https://github.com/SinanTufekci/agent-intern">agent-intern</a></b><br><br>
+      One MCP server that lets Claude Code drive other coding CLIs as sub-agents: Gemini (Antigravity), Codex, Copilot, Cursor and opencode, plus experimental Grok, Kimi and Muse.<br><br>
       <a href="https://pypi.org/project/agent-intern/"><img src="https://img.shields.io/pypi/v/agent-intern?style=flat-square&label=pypi" alt="agent-intern on PyPI"></a> <a href="https://github.com/SinanTufekci/agent-intern/commits"><img src="https://img.shields.io/github/last-commit/SinanTufekci/agent-intern?style=flat-square&label=last%20commit" alt="last commit to SinanTufekci/agent-intern"></a>
     </td>
   </tr>
@@ -57,5 +72,5 @@ MSc @ İKÇÜ · [LinkedIn](https://www.linkedin.com/in/sinantufekci) · [ORCID]
 <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,godot,git,github" alt="C, C++, Python, Qt, Godot, Git, GitHub">
 
 - **Firmware & hardware:** STM32 / C++ firmware · CAN bus · motor control · KiCad PCB design
-- **Manufacturing:** CNC / G-code post-processors (Fanuc, Sinumerik)
+- **Manufacturing:** composite filament winding CAM · CNC / G-code post-processors (Fanuc, Siemens Sinumerik, Mitsubishi, Heidenhain)
 - **Software:** Python desktop apps (PySide6 + VTK, Nuitka) · terminal apps (Textual) · MCP servers · MuJoCo · Godot 4
